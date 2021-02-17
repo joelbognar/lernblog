@@ -1,7 +1,7 @@
 +++
 title = "Pagani"
 date = "2021-02-17"
-draft = true
+draft = false
 pinned = false
 image = "_blog-gut.jpg"
 +++
