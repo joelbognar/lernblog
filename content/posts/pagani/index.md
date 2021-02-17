@@ -19,7 +19,7 @@ Also zusammenfassend:
 
 Je grösser die Blendenöffnung ist, desto verschwommener der Gegenstand im Hintergrund!
 
-Hier sind weiter Bilder, wo die Tiefenschärfe sehr gut sichtbar ist.
+Hier sind weitere Bilder, wo die Tiefenschärfe sehr gut sichtbar ist.
 
 ![Beim folgenden Bild ist die Blende bei 2,8F.](_dsc0107-gut.jpg)
 
