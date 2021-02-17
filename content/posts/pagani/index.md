@@ -21,10 +21,12 @@ Je grösser die Blendenöffnung ist, desto verschwommener der Gegenstand im Hint
 
 Hier sind weitere Bilder, wo die Tiefenschärfe sehr gut sichtbar ist.
 
-![Beim folgenden Bild ist die Blende bei 2,8F.](_dsc0107-gut.jpg)
+![Beim folgenden Bild ist die Blende bei F2,8.](_dsc0107-gut.jpg)
 
 ![Das folgende Bild wurde mit einer Blende von F5,6 aufgenommen.](_dsc0115-gut.jpg)
 
 ![Dieses Bild hat eine Blende von F4. ](_dsc0122-gut.jpg)
+
+![Dieses Bild hat eine Blende von F2.8.](_blog-gut.jpg)
 
 Viel Spass beim ausprobieren!
