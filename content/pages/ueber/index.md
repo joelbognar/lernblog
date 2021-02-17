@@ -6,10 +6,4 @@ description = "Seite über mich"
 +++
 ![](/img/default-author.png)
 
-## Joel 
-
-
-
-
-
-Beschreibung, wer ich bin...
+## Joel
