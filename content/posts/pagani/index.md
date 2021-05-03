@@ -5,7 +5,7 @@ draft = false
 pinned = false
 image = "_blog-gut.jpg"
 +++
-Das folgende Foto zeigt die Tiefenschärfe. Der orange Pagani ist scharf zu sehen, der schwarze BMW im Hintergrund ist verschwommen. Erkennt ihr welches Auto das richtige ist?
+Das kleine Titelbild zeigt die Tiefenschärfe. Der orange Pagani ist scharf zu sehen, der schwarze BMW im Hintergrund ist verschwommen. Erkennt ihr welches Auto das richtige ist?
 
 Doch was genau ist die Tiefenschärfe?
 
@@ -19,7 +19,7 @@ Also zusammenfassend:
 
 Je grösser die Blendenöffnung ist, desto verschwommener der Gegenstand im Hintergrund!
 
-Hier sind weitere Bilder, wo die Tiefenschärfe sehr gut sichtbar ist.
+Hier unten sind nun Bilder, wo die Tiefenschärfe sehr gut sichtbar ist.
 
 ![Beim folgenden Bild ist die Blende bei F2,8.](_dsc0107-gut.jpg)
 
