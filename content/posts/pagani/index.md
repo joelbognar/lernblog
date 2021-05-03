@@ -5,7 +5,7 @@ draft = false
 pinned = false
 image = "_blog-gut.jpg"
 +++
-Das kleine Titelbild zeigt die Tiefenschärfe. Der orange Pagani ist scharf zu sehen, der schwarze BMW im Hintergrund ist verschwommen. Erkennt ihr welches Auto das richtige ist?
+Der orange Pagani ist scharf zu sehen, der schwarze BMW im Hintergrund ist verschwommen. Dieses Phänomen nennt man Tiefenschärfe. Erkennt ihr eigentlich, welches Auto das richtige ist?
 
 Doch was genau ist die Tiefenschärfe?
 
